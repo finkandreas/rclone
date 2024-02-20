@@ -63,7 +63,7 @@ require (
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.8.4
-	github.com/t3rm1n4l/go-mega v0.0.0-20230228171823-a01a2cda13ca
+	github.com/t3rm1n4l/go-mega v0.0.0-20240219080617-d494b6a8ace7
 	github.com/willscott/go-nfs v0.0.0-20231028170411-e6abde417d5d
 	github.com/winfsp/cgofuse v1.5.1-0.20221118130120-84c0898ad2e0
 	github.com/xanzy/ssh-agent v0.3.3
@@ -71,11 +71,11 @@ require (
 	github.com/yunify/qingstor-sdk-go/v3 v3.2.0
 	go.etcd.io/bbolt v1.3.8
 	goftp.io/server/v2 v2.0.1
-	golang.org/x/crypto v0.17.0
+	golang.org/x/crypto v0.19.0
 	golang.org/x/net v0.17.0
 	golang.org/x/oauth2 v0.13.0
 	golang.org/x/sync v0.4.0
-	golang.org/x/sys v0.15.0
+	golang.org/x/sys v0.17.0
 	golang.org/x/text v0.14.0
 	golang.org/x/time v0.3.0
 	google.golang.org/api v0.148.0
@@ -193,5 +193,5 @@ require (
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/pkg/xattr v0.4.9
 	golang.org/x/mobile v0.0.0-20231006135142-2b44d11868fe
-	golang.org/x/term v0.15.0
+	golang.org/x/term v0.17.0
 )
